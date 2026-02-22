@@ -76,5 +76,4 @@ may impede your understanding. Please rate how well you understand the concepts 
 [ ] I am about 50/50 on this lab; I get parts of it but not the whole picture.
 [x] I pretty much get it.
 [ ] I'm solid. Totally got it.
-'''
-I understand from the when I did the labs with random, randint() and the if and etc.. Its just having to go back and see where each of these things are structured. Understand the concept though and this is fun.
+''' 
